@@ -10,6 +10,6 @@ Installations for Shopify
 4. Enter "Merchant ID" and "Verification Key" provided by MOLPay
 5. Click 'Activate', You have complete the installation at Shopify !
 6. Logon to MOLPay merchant admin. https://www.onlinepayment.com.my/MOLPay/
-7. Navigate to "Merchant Profile" > Tick "Enable Return URL with IPN?" & Update.
+7. Navigate to "Merchant Profile" > Tick "Enable Return & Callback URL with IPN?" & Update.
 8. Please leave it blank for 'ReturnURL', 'CallbackURL' & 'NotificationURL'.
 9. You're done.
