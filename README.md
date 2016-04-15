@@ -8,6 +8,8 @@ Kindly refer to the MOLPay hosted payment for Shopify merchant:-</h3>
 https://github.com/MOLPay/Hosted_Payment_for_Shopify
 
 
+------------------------------------------------------
+
 
 MOLPay Shopify Plugin
 ==================
