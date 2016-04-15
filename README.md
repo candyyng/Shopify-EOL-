@@ -1,3 +1,14 @@
+WARNING!
+========
+
+<h3>Please be informed that this library has been obsoleted and marked as End-of-Life product.
+
+Kindly refer to the MOLPay hosted payment for Shopify merchant:-</h3>
+
+https://github.com/MOLPay/Hosted_Payment_for_Shopify
+
+
+
 MOLPay Shopify Plugin
 ==================
 MOLPay plugin for shopify is pre-installed in Shopify.
