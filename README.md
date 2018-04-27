@@ -1,6 +1,9 @@
 WARNING!
 ========
 
+<img src="https://user-images.githubusercontent.com/38641542/39344583-da87c94e-4a15-11e8-9ad4-b2b52165cfe0.jpg">
+
+
 <h3>Please be informed that this library has been obsoleted and marked as End-of-Life product.
 
 Kindly refer to the MOLPay hosted payment for Shopify merchant:-</h3>
